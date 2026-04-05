@@ -13,12 +13,12 @@
 
 ### ⚡ About Me
 
-- 🎓 Student Developer & UI/UX enthusiast from the **Philippines** 🇵🇭
-- 🔬 Passionate about **Human–Computer Interaction** Projects
-- 🎮 Building mini-games and creative embedded UIs
-- 🤖 Currently exploring **AI / Generative React Pipelines** with Claude API
-- 🤝 Open to collaborative **front-end + design** projects
-- 📫 Reach me at: **your@email.com**
+- 🎓 Frontend Developer student based in the **Philippines** 🇵🇭
+- 🎨 Focused on crafting **clean, responsive, and interactive web experiences**
+- ⚛️ Primarily building with **React, Next.js & Tailwind CSS**
+- 🛠️ Expanding my skills in **TypeScript, Supabase & Firebase**
+- 💡 Driven by the process of turning ideas into polished, functional products
+- 📫 Reach me at: **allyzzaprincess17@gmail.com**
 
 ---
 
@@ -85,17 +85,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech | Stars |
-|--------|-------------|------|-------|
-| ⚡ **Web App** | Inventory & Stock UI with interactive loading + real-time dashboard | TypeScript, React | ⭐ 24 |
-| 💊 **Option Lab Trading** | Patient records & prescription management with clean data UI | Python, PostgreSQL | ⭐ 18 |
-| 🏗️ **BT Platform** | Project management site with collaborative real-time tools | JavaScript, Node.js | ⭐ 11 |
-| 🎓 **Small Scale Automaton** | Biomedical hub with gamified interactive learning environment | Go, Supabase | ⭐ 7 |
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
@@ -106,12 +95,6 @@
 [![Email](https://img.shields.io/badge/Email-FF4DA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
-
----
-
-### 💬 Guestbook
-
-> _Want to leave a message? Open an [Issue](https://github.com/prim21/prim21/issues/new?title=Guestbook&body=Hey%20Allyzza%2C%20just%20dropping%20by%20to%20say...) titled **Guestbook** and say hi! I read every one_ 👋
 
 ---
 
